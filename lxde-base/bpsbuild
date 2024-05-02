@@ -3,7 +3,7 @@ name="lxde-base"
 version="1.0.0"
 description="lxde package list "
 source=""
-depends="libfm,libfm-extra,menu-cache,lxappearance,lxde-common,lxde-icon-theme,lxhotkey,lxinput,lxlauncher,lxmenu-data,lxpanel,lxrandr,lxsession,lxtask,lxterminal,pcmanfm"
+depends="libfm,libfm-extra,menu-cache,lxappearance,lxde-common,lxde-icon-theme,lxhotkey,lxinput,lxlauncher,lxmenu-data,lxpanel,lxrandr,lxsession,lxtask,lxterminal,pcmanfm,libkeybinder3,libexif"
 group="lxde.base"
 
 setup(){
